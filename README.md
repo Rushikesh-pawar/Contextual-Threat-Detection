@@ -39,7 +39,7 @@ Open `Predict_Tweets_with_Real_Threats (1).ipynb` in Google Colab (recommended �
 
 ## Files
 
-- `Predict_Tweets_with_Real_Threats (1).ipynb` — full pipeline: EDA, preprocessing, BERT + NB training, evaluation
+- `Predict_Tweets_with_Real_Threats.ipynb` — full pipeline: EDA, preprocessing, BERT + NB training, evaluation
 - `train.csv`, `test.csv` — Kaggle dataset
 - `Predict tweets with real threats.pptx` / `.pdf` — project presentation
 
@@ -50,5 +50,5 @@ Open `Predict_Tweets_with_Real_Threats (1).ipynb` in Google Colab (recommended �
 
 ## Authors
 
-- Akhil Kamble (210941225005)
-- Rushikesh Pawar (210941225036)
+- Akhil Kamble
+- Rushikesh Pawar 
