@@ -1,4 +1,5 @@
-# Predict Tweets with Real Threats
+# Contextual Threat Detection 
+
 
 Classify tweets as real-disaster vs. non-disaster so first-responders can be alerted faster.
 A naive keyword scan over Twitter is misleading — *"Ronaldo scored two goals, he's on fire"* is not a fire — so we need a model that understands context.
